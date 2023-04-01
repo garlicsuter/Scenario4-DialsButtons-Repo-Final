@@ -24914,6 +24914,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dial-Physical
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5ddfd9591fe88db42ad628520bc1023f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2043403744844650977, guid: 5ddfd9591fe88db42ad628520bc1023f,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -29251,6 +29256,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BouncyBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 3567527943167767507, guid: 052ffdcf986597a479dbe7b327a3866e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 052ffdcf986597a479dbe7b327a3866e, type: 3}
